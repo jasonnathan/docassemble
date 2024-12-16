@@ -66,7 +66,7 @@ install_requires = [
     "colorama==0.4.6",
     "commonmark==0.9.1",
     "ConfigArgParse==1.7",
-    "configobj==5.0.8",
+    "configobj==5.0.9",
     "configparser==6.0.0",
     "convertapi==1.7.0",
     "crayons==0.4.0",
